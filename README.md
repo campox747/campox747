@@ -14,9 +14,6 @@ An autonomous inventory-tracking XRP robot powered by a self-trained object dete
 **Git revisor**  
 A VS Code extension that uses a locally hosted LLM to automatically review Git commits, analyze code changes, and provide concise, actionable feedback directly within the developer's workflow.
 
-**Multicore Cache Simulator**  
-A simulator exploring cache hierarchies, memory access behavior, and MESI cache coherence.
-
 ### Contact
 Happy to connect and contribute to real and impactful projects!
 [LinkedIn](www.linkedin.com/in/francesco-camporeale-a15b23328) · [Email](francescocamporeale23@gmail.com)
