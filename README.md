@@ -1,4 +1,4 @@
-# Hi, I'm Francesco
+# Hi there!
 
 I'm a Computer Science student at KTH Royal Institute of Technology, currently exploring the areas of computer science that fascinate me the most.
 
@@ -20,6 +20,6 @@ A VS Code extension that uses a locally hosted LLM to automatically review Git c
 **Multicore Cache Simulator**  
 A simulator exploring cache hierarchies, memory access behavior, and MESI cache coherence.
 
-### Connect
+### Contact
 Let's connect!
 [LinkedIn](www.linkedin.com/in/francesco-camporeale-a15b23328) · [Email](francescocamporeale23@gmail.com)
