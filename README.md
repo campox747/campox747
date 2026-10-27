@@ -18,5 +18,5 @@ A VS Code extension that uses a locally hosted LLM to automatically review Git c
 A simulator exploring cache hierarchies, memory access behavior, and MESI cache coherence.
 
 ### Contact
-Let's connect!
+Happy to connect and contribute to real and impactful projects!
 [LinkedIn](www.linkedin.com/in/francesco-camporeale-a15b23328) · [Email](francescocamporeale23@gmail.com)
