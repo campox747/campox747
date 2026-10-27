@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Francesco
 
-<!--
-**campox747/campox747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at KTH Royal Institute of Technology, currently exploring the areas of computer science that fascinate me the most.
 
-Here are some ideas to get you started:
+I'm particularly drawn to **ML and high-performance computing**, especially the challenge of understanding complex systems and making them more efficient, and scalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm interested in
+- ML inference and training optimization
+- High-performance and parallel computing
+- Distributed systems and cloud infrastructure
+- Backend and systems engineering
+
+### Selected projects
+**Scanos**  
+An autonomous inventory-tracking XRP robot powered by a self-trained object detection model and multi-object tracking. Built with Python, React, MQTT, and Firebase to enable real-time object recognition, tracking, and inventory management.
+
+**Git revisor**  
+A VS Code extension that uses a locally hosted LLM to automatically review Git commits, analyze code changes, and provide concise, actionable feedback directly within the developer's workflow.
+
+**Multicore Cache Simulator**  
+A simulator exploring cache hierarchies, memory access behavior, and MESI cache coherence.
+
+### Connect
+Let's connect!
+[LinkedIn](www.linkedin.com/in/francesco-camporeale-a15b23328) · [Email](francescocamporeale23@gmail.com)
