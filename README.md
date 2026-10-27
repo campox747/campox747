@@ -1,16 +1,13 @@
 # Hi there!
 
-I'm a Computer Science student at KTH Royal Institute of Technology, currently exploring the areas of computer science that fascinate me the most.
-
-I'm particularly drawn to **ML and high-performance computing**, especially the challenge of understanding complex systems and making them more efficient, and scalable.
+I'm a Computer Science student at KTH Royal Institute of Technology, currently exploring the areas of computer science that fascinate me the most. I'm particularly drawn to **ML and high-performance computing**, especially the challenge of understanding complex systems and making them more efficient and scalable.
 
 ### What I'm interested in
 - ML inference and training optimization
 - High-performance and parallel computing
 - Distributed systems and cloud infrastructure
-- Backend and systems engineering
 
-### Selected projects
+### Projects
 **Scanos**  
 An autonomous inventory-tracking XRP robot powered by a self-trained object detection model and multi-object tracking. Built with Python, React, MQTT, and Firebase to enable real-time object recognition, tracking, and inventory management.
 
